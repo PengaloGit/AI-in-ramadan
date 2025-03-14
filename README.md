@@ -17,6 +17,7 @@ This repository will be divided into session folders, with each folder containin
 ## Prerequisites
 
 Since the code is in the jupyter format, I remend running it on collab.
+
 However if your interesseted by running the code locally, 
 you may need to add the dependencies that are not present in the notebook since collab has them by default.
 
